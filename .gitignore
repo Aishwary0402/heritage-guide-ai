@@ -1,0 +1,7 @@
+venv/
+vector_db/
+__pycache__/
+.env
+*.pyc
+*.sqlite3
+.DS_Store
